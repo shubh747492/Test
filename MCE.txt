@@ -1,0 +1,60 @@
+1) In which type of programs do you have a dashboard for reporting?
+Email and Engagement, Email with A/B Test.
+2) Given a sentence detemine which type of tokens have been used.
+Eg:- Jon Smith filled out a form " XXX" on 9:11 am "date".
+Lead token.
+Date token
+Filled out form is Trigger token.
+3) What is the maximum number of rows that can be exported from a report?
+5000 rows.
+4) What is default number of rows that can be exported?
+100 rows.
+5) Default token value: "Hey there"? What does this do.
+It displays "Hey there" in the email when the firt name is empty.
+6) You want to mark it to people live on the site, which channel type would you use?
+Tradeshow.
+7) To ensure the deliverablity of the email, which section is necessary?
+Text Version.
+8) What does Munchkin help us track?
+Visit Web page
+Click link in webpage
+9) The leads job title is external marketing manager, which thank you page would the lead be directed to?
+Contains:-  Manager.
+10) Progressive profiling - Displaying number of fields
+Ans:- Number of blank fields option
+11) Difference btw Marketo and ESP?
+12) If a marketer wants to perform a Landing page A/B test in order to determine which brings out the most conversion, which report would you use.
+Landing page performance report.
+13) Which report has the functionality of drill down?
+Lead performance report.
+14) Why do we have to add custom columns in a report and oppurtunity columns?
+Refer Lead performance report doc.
+15) Adding an email to the top of the stream, will the emails be sent to exhausted members?
+Yes, all the members in the stream will receive the email.
+16) Roles of stakeholders in the company.
+17) Which are the two final stake holders who have to determine the qualified state of lead?
+18) What the pre-requistie for using dynamic content?
+Snippet or segmentation.
+19) Token inheritence from which holder.
+[1:10 AM]
+20) Use of advanced filter logic?
+21) Marketer has three new whitepapers that he wants to create smart campaigns for which program type and channel would he use?
+Default program with the channel of web form.
+22) Which metric is used to calculate cost per success?
+[1:12 AM]
+23) Marketer wants to reset the score of leads who have unsubscribed. What are the two ways by which this can be accomplished?
+Running a batch smart campaign, manual edition.
+24) Differnece between smart list and segmentation?
+[1:15 AM]
+25) Editing duplicates filter
+Will change it in posible duplicates smart list in Database.
+[1:16 AM]
+26) Difference between hard bounce and soft bounce.
+27) Marketer wants to pop up a form when a lead visits a website?
+Ans:- Embed code within form for lightbox.
+[1:17 AM]
+28) Change score =0. No score reset.
+Hari Krishnan [1:26 AM]
+29) Determine attribiutes in score change.
+30) Marketer has imported static list into a program and wants to add those leads to an engagement program. Which flow steps are used?
+Add to engagement program flow step
